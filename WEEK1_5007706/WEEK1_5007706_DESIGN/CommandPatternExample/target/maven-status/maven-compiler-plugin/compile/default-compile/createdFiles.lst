@@ -1,0 +1,6 @@
+com\mycompany\commandpatternexample\LightOffCommand.class
+com\mycompany\commandpatternexample\LightOnCommand.class
+com\mycompany\commandpatternexample\RemoteControl.class
+com\mycompany\commandpatternexample\Light.class
+com\mycompany\commandpatternexample\CommandPatternExample.class
+com\mycompany\commandpatternexample\Command.class
