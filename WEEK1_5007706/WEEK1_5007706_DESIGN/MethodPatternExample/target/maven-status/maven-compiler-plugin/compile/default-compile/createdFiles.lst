@@ -1,0 +1,9 @@
+com\mycompany\methodpatternexample\DocumentFactory.class
+com\mycompany\methodpatternexample\MethodPatternExample.class
+com\mycompany\methodpatternexample\PdfDocumentFactory.class
+com\mycompany\methodpatternexample\PdfDocument.class
+com\mycompany\methodpatternexample\WordDocument.class
+com\mycompany\methodpatternexample\ExcelDocument.class
+com\mycompany\methodpatternexample\ExcelDocumentFactory.class
+com\mycompany\methodpatternexample\document.class
+com\mycompany\methodpatternexample\WordDocumentFactory.class
