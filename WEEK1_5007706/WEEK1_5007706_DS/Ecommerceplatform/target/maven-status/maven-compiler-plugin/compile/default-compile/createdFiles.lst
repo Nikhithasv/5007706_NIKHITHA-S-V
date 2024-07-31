@@ -1,0 +1,5 @@
+com\mycompany\ecommerceplatform\Ecommerceplatform.class
+com\mycompany\ecommerceplatform\LinearSearch.class
+com\mycompany\ecommerceplatform\BinarySearch.class
+com\mycompany\ecommerceplatform\Product.class
+com\mycompany\ecommerceplatform\SortProducts.class
