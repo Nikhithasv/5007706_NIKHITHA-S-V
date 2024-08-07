@@ -1,5 +1,9 @@
 package com.library.service;
 
+/**
+ *
+ * @author nikhi
+ */
 import com.library.repository.BookRepository;
 
 public class BookService {
@@ -9,8 +13,8 @@ public class BookService {
         this.bookRepository = new BookRepository();
     }
 
-    public void performService() {
-        System.out.println("Service performed.");
+    public void service() {
+        System.out.println("Working");
         bookRepository.performRepositoryAction();
     }
 }
