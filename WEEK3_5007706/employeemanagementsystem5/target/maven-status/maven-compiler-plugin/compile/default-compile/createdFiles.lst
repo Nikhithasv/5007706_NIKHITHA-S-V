@@ -1,0 +1,9 @@
+com\example\employeemanagementsystem5\controller\DepartmentController.class
+com\example\employeemanagementsystem5\Employeemanagementsystem5Application.class
+com\example\employeemanagementsystem5\controller\EmployeeController.class
+com\example\employeemanagementsystem5\repository\EmployeeRepository.class
+com\example\employeemanagementsystem5\model\Department.class
+com\example\employeemanagementsystem5\repository\DepartmentRepository.class
+com\example\employeemanagementsystem5\repository\entityManager.class
+com\example\employeemanagementsystem5\service\EmployeeService.class
+com\example\employeemanagementsystem5\model\Employee.class
