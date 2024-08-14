@@ -1,0 +1,8 @@
+com\example\employeemanagementsystem4\controller\DepartmentController.class
+com\example\employeemanagementsystem4\model\Department.class
+com\example\employeemanagementsystem4\service\EmployeeService.class
+com\example\employeemanagementsystem4\Employeemanagementsystem4Application.class
+com\example\employeemanagementsystem4\repository\EmployeeRepository.class
+com\example\employeemanagementsystem4\controller\EmployeeController.class
+com\example\employeemanagementsystem4\repository\DepartmentRepository.class
+com\example\employeemanagementsystem4\model\Employee.class
